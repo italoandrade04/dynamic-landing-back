@@ -11,3 +11,5 @@ app.use('/api', route);
 app.listen(3000, () => {
     console.log('Servidor Rodando na porta 3000!');
 })
+
+module.exports = app;
