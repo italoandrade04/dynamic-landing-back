@@ -5,8 +5,8 @@ Escopo do projeto:
    * Utilização de tecnologias e aplicações de boas práticas
 
 # Nosso Grupo: guitim
-Guilherme: [a link](https://github.com/guilhermebreed)
-Ítalo: [a link](https://github.com/italoandrade04)
+  [Guilherme Silva Alves](https://github.com/guilhermebreed)
+  [Ítalo Andrade Oliveira](https://github.com/italoandrade04)
 
 # Gostou? só baixar e usar.
  Caso queira contribuir financeiramente: envie para .... :) ainda está em desenvolvimento por favor aguarde 
